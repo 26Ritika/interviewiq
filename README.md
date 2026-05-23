@@ -59,9 +59,5 @@
 ---
 
 
-### Backend
-```bash
-cd backend
-
 python add_to_problems.py
 uvicorn api:app --reload
